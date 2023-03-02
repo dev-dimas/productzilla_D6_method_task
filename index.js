@@ -38,8 +38,8 @@ const fungsiMatematika5 = (x) => {
 
 outputDatadiri();
 outputDataMahasiswa();
-fungsiMatematika1(1);
-fungsiMatematika2(1, 1);
-fungsiMatematika3(1, 1);
-fungsiMatematika4(1, 1);
+fungsiMatematika1(3);
+fungsiMatematika2(5, 2);
+fungsiMatematika3(1, 4);
+fungsiMatematika4(3, 5);
 fungsiMatematika5(1);
